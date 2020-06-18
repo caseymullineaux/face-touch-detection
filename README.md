@@ -30,4 +30,8 @@ python3 ./covid19.py
 
 ## How it works
 
+Use `hsv_color_detector.py` to dial in the HSV values of the colour you want to detect in the image.
+Press `Q` to output the necessary python code to the console.
+Copy + Paste the code to line 49 & 50 of `covid.py`.
+
 For a full breakdown of the code, check out [this blog post](https://www.mullineaux.com.au/posts/2020/06/18/covid19-prevention-using-python/).
