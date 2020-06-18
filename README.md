@@ -4,7 +4,9 @@
 
 We're a few months into COVID-19 lockdown and working from home has become a reality for a lot of us. The World Health Organization advises that in order to protect ourselves from infection, we should avoid touching our eys, nose and mouth as much as possible.
 
-Driven by the internet's enthusiasm to videos of themselves struggling to keep their hands away from their faces, I decided to embark on a little project to help me detect exactly when that happens throughout the course of a regular work-from-home day.
+Driven by the internet's enthusiasm to post videos of themselves struggling to keep their hands away from their faces, I decided to embark on a little project to help me detect exactly when that happens throughout the course of a regular work-from-home day.
+
+### TLDR
 
 This project causes your computer to scream at you whenever your hands come near your face.
 
