@@ -18,7 +18,7 @@ Install requirements
 
 ```python
 pip install -r requirements.txt
-``
+```
 
 Execute the script
 
