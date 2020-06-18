@@ -8,7 +8,7 @@ Driven by the internet's enthusiasm to videos of themselves struggling to keep t
 
 This project causes your computer to scream at you whenever your hands come near your face.
 
-![](https://www.youtube.com/watch?time_continue=1&v=yu1LF2MJ1VE&feature=emb_logo)
+[![DON'T TOUCH YOUR FACE](https://img.youtube.com/vi/yu1LF2MJ1VE/0.jpg)](https://www.youtube.com/watch?v=yu1LF2MJ1VE)
 
 ## Getting started
 
